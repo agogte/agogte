@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=agogte&color=red&style=plastic)
 
 <!--
 **agogte/agogte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
