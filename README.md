@@ -1,4 +1,4 @@
- #Hey, I'm Advait 👋
+ # Hey, I'm Advait 👋
 
 Software Engineer with 4+ years of experience building distributed systems, event-driven microservices, and AI-integrated backends at scale. Passionate about cloud-native architecture, developer tooling, and shipping reliable systems that serve millions of users.
 
